@@ -1,4 +1,3 @@
-# (Join, Iss) protocol in sect 6 of 2005-123, simplified and modified
 import bn256, random
 
 def fp_inv(a: int, p: int) -> int:
