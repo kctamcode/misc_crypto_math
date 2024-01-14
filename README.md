@@ -2,8 +2,6 @@
 
 References
 
-Kate, Aniket, Gregory M. Zaverucha, and Ian Goldberg. "Constant-size commitments to polynomials and their applications." Advances in Cryptology-ASIACRYPT 2010: 16th International Conference on the Theory and Application of Cryptology and Information Security, Singapore, December 5-9, 2010. Proceedings 16. Springer Berlin Heidelberg, 2010.
-
 Berrut, Jean-Paul, and Lloyd N. Trefethen. "Barycentric lagrange interpolation." SIAM review 46.3 (2004): 501-517.
 
 Werner, Wilhelm. "Polynomial interpolation: Lagrange versus newton." Mathematics of computation 43.167 (1984): 205-217.
